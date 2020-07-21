@@ -1,6 +1,6 @@
 # UMKC-HackathonSP2017-ConversationUI
 
-  _This is an Use Case Provided by Yoodle at Spring 2017 UMKC and H&R Block Hackathon held at UMKC. We need to design an application with which the user should be able to communicate and book an appointment with the doctor for the problem he is having._
+  _This Project is an Use Case Provided by Yoodle at Spring 2017 UMKC and H&R Block Hackathon held at UMKC. We need to design an application with which the user should be able to communicate and book an appointment with the doctor for the problem he is having._
 
 **The Presentation slides can be accessed from here**
 
